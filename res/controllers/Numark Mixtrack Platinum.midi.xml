@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<MixxxControllerPreset mixxxVersion="2.1.0+" schemaVersion="1">
+<MixxxControllerPreset mixxxVersion="2.5.0+" schemaVersion="1">
     <info>
         <name>Numark Mixtrack Platinum</name>
-        <author>Matthew Nicholson</author>
-        <description>Numark Mixtrack Platinum mapping with support for LCD screens and 4 deck playback.</description>
-        <forums>https://www.mixxx.org/forums/viewtopic.php?f=7&amp;t=8863</forums>
+        <author>Klemen Kle (ljubitje)</author>
+        <description>Mixtrack Platinum mapping (original work by Matthew Nicholson), with VU (volume) meters.</description>
+        <forums>https://mixxx.discourse.group/t/numark-mixtrack-platinum-mapping/16442/276</forums>
         <manual>numark_mixtrack_platinum</manual>
     </info>
     <controller id="MixTrack">
